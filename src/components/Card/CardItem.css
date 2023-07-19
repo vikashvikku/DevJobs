@@ -1,0 +1,47 @@
+.cardItem {
+  background-color: white;
+  width: 100%;
+  height: auto;
+  margin: 0rem 0 0 6rem;
+  padding: 1rem;
+  position: relative;
+  border-radius: 5px;
+}
+
+.company-name {
+  display: flex;
+  align-items: center;
+  color: white;
+  background-color: rgb(255, 136, 56);
+  font-size: 12px;
+  padding: 00px 0 0px 4px;
+  width: 2.2rem;
+  height: 2.2rem;
+  position: absolute;
+  top: -1.2rem;
+  left: 1.5rem;
+  border-radius: 12px;
+}
+
+.time {
+  color: grey;
+  font-size: 14px;
+  padding: 16px 0;
+}
+
+.position {
+  font-weight: 600;
+  padding: 0 0 12px 0;
+}
+
+.company {
+  color: grey;
+  font-size: 14px;
+  padding: 2px 0 12px 0;
+}
+
+.location {
+  color: blue;
+  font-size: 14px;
+  padding: 16px 0 16px 0;
+}
